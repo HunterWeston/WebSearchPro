@@ -1,4 +1,5 @@
 WebSearcherPro is a web search api to browse the web at super high speeds from a proxy hosted locally.
+
 ![image](https://github.com/WebSearchPro/WebSearchPro/assets/142934119/76867388-83a8-4e51-92db-e3fb7f0b53cd)
 
 Unlike regular homework helpers, this one is not only an awsome proxy, but a community. Join our Study devision to have access to top-teir 
