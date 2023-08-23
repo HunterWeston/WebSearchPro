@@ -5,12 +5,12 @@ WebSearcherPro is a web search api to browse the web at super high speeds from a
 
 ![image](https://github.com/WebSearchPro/WebSearchPro/assets/142934119/76867388-83a8-4e51-92db-e3fb7f0b53cd)
 
-Unlike regular homework helpers, this one is not only an awsome proxy, but a community. Join our Study devision to have access to top-teir 
+This project is not only an awsome application, but a community. Join our Study devision to have access to top-teir 
 study recources and tools!
 
 ![image](https://github.com/WebSearchPro/WebSearchPro/assets/142934119/1f7ed665-c28c-4b8f-9d08-63022cefc8d8)
 
-## **Instalation:**
+## **Installation:**
 ###### (Baritone api used for the examples, it can be found here: https://github.com/cabaletta/baritone)
 **Find your way to the realeases tab:**
 
@@ -24,7 +24,7 @@ study recources and tools!
 
 <img width="882" alt="Screen Shot 2023-08-23 at 9 33 31 AM" src="https://github.com/WebSearchPro/WebSearchPro/assets/142934119/69bbd478-da05-4737-a634-11d0812697a7">
 
-(instalation to be continued)
+(installation to be continued)
 
 
 
